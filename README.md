@@ -8,7 +8,7 @@ Hi, I'm Andres Del Castillo!
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-26-blue" />
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
 <img src="https://img.shields.io/badge/Lives-Australia-success" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
